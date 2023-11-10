@@ -1,6 +1,6 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
-#include <LiquidCrystal.h> //Agregamos las librerias de cristal liquido
+#include <LiquidCrystal.h> //Agregamos las librerias del cristal liquido
 
 LiquidCrystal lcd(22, 23, 5, 18, 19, 21);//Inicializamos los pines conectados de la pantalla de cristal líquido al esp32
 
